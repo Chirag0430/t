@@ -1,0 +1,69 @@
+Q - 1 audio- 1
+	Une trousse		True		
+	Une table		True/false
+	Un crayon de couleur	True
+	Un ordinateur		False
+	Un calendrier		True
+	Un taille-crayon	True
+	Un livre		True
+	Une gomme		True
+
+Q - 2
+	1) Mélanie a quel âge? (How old is Melanie?) - 24
+
+	2)  Le père de Mélanie a quel âge? (How old is Melanie's father?) - 50
+
+	3) Comment s'appelle le cousin de  Mélanie? (What is the name of her 	cousin?) - Il s'appelle Thomas. 
+
+	4) Dites vrai ou faux - Mélanie a une sœur. (True or False - Melanie 	has a brother.) - False
+
+	5) Traduisez le verbe "Travailler" en anglais. (Translate the verb 	"Travailler" in English.) - To travel
+
+	6) Quelle est la profession de la mère de  Mélanie? (What is the 	profession of Melanie's mother?) - On ne sait pas (not specified)
+
+	7) Dites vrai ou faux. (True or False)
+	"C'est une conversation téléphonique."
+	(This is a telephonic conversation.) - False
+
+
+
+Grammer
+
+Q -1 
+	1) Il ________ au tennis. (jouer) - joue
+
+	2) Vous ________ de la pizza? (manger) - mangez
+
+	3) Mes grands-parents __________ à Montpellier. (habiter) - habitent
+
+	4) J'________ les sciences. (étudier) -	etudie
+
+	5) Boris ________ à Tokyo. (travailler) - travaille
+
+	6) Tu ________ ta journée à quelle heure? (commencer) - commences
+
+	7) Il ________ son père. (appeler) - appelle
+
+	8) Nous ________ les invitations. (envoyer) - envoyons
+
+Q -2 
+	1)  à parents Elle avec ses Paris habite  . 
+		- Elle habite à Paris avec ses parents.
+
+	2) livres Il a deux y dans sac mon. 
+		- Il y a deux livres dans mon sac.
+
+	3) Chine Mon voyage oncle en. 
+		- Mon oncle voyage en Chine.
+
+	4) appelez Vous comment vous? 
+		- Vous vous appelez comment?
+
+	5) jouer aime au J' cricket. 
+		- J'aime jouer au cricket.
+
+	6) parle directrice La français. 
+		- La directrice parle français.
+
+	7) à télé regardent Elles la 8h. 
+		- Elles regardent la télé à 8h.
